@@ -1,6 +1,6 @@
 # STATISTICAL-ANALYSIS-OF-DOG-REHOMING-TIMES-ACROSS-THREE-BREEDS
-tatistical Analysis of Dog Rehoming Times Across Three Breeds
-📌 Project Overview
+
+** Project Overview**
 
 This project investigates whether the true mean rehoming time in animal shelters aligns with the proposed 27-week benchmark, and whether rehoming duration differs by breed.
 
@@ -14,7 +14,7 @@ Staffordshire Bull Terrier
 
 The primary variable of interest is rehoming time (in weeks).
 
-📊 Research Objectives
+**Research Objectives**
 
 The project addresses the following statistical questions:
 
@@ -26,7 +26,7 @@ Is the mean rehoming time statistically equal to 27 weeks for each breed?
 
 Does breed significantly influence rehoming duration?
 
-🧾 Dataset Features
+**Dataset Features**
 
 In addition to rehoming time, the dataset includes:
 
@@ -38,7 +38,7 @@ Return status
 
 These variables provide further context for understanding potential influences on shelter duration.
 
-🛠 Methods Used
+**Methods Used**
 
 Exploratory Data Analysis (EDA)
 
